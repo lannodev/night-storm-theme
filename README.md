@@ -6,4 +6,4 @@
 
 ## Screenshots
 Night Storm
-![Screenshot - Night Storm]()
+![Screenshot - Night Storm](https://github.com/luciano-work/night-storm-theme/blob/main/images/dark.png?raw=true)
