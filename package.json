@@ -6,6 +6,28 @@
     "engines": {
         "vscode": "^1.58.0"
     },
+    "license": "MIT",
+    "keywords": [
+        "theme",
+        "contrast",
+        "dark",
+        "clean",
+        "flat"
+    ],
+    "icon": "icon.png",
+    "author": {
+        "name": "Luciano Oliveira",
+        "email": "workingluciano@gmail.com",
+        "url": "https://lanno.me"
+    },
+    "homepage": "https://github.com/luciano-work/night-storm-theme.git",
+    "bugs": {
+        "url": "https://github.com/luciano-work/night-storm-theme/issues"
+    },
+    "repository": {
+        "url": "https://github.com/luciano-work/night-storm-theme.git",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
