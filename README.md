@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "lanno-night-storm"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# [Night Storm](https://marketplace.visualstudio.com/items?itemName=x)
+[![Version](https://vsmarketplacebadge.apphb.com/version/x.svg)](https://marketplace.visualstudio.com/items?itemName=x)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/x.svg)](https://marketplace.visualstudio.com/items?itemName=x)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<br><br>A dark Visual Studio Code theme that make better for your eyes
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Screenshots
+Night Storm
+![Screenshot - Night Storm]()
