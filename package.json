@@ -1,0 +1,21 @@
+{
+    "name": "lanno-night-storm",
+    "displayName": "Night Storm",
+    "description": "A clean, dark Visual Studio Code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Storm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Storm-color-theme.json"
+            }
+        ]
+    }
+}
