@@ -1,6 +1,6 @@
 # [Night Storm](https://marketplace.visualstudio.com/items?itemName=x)
-[![Version](https://vsmarketplacebadge.apphb.com/version/x.svg)](https://marketplace.visualstudio.com/items?itemName=x)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/x.svg)](https://marketplace.visualstudio.com/items?itemName=x)
+[![Version](https://vsmarketplacebadge.apphb.com/version/LucianoOliveira.lanno-night-storm.svg)](https://marketplace.visualstudio.com/items?itemName=LucianoOliveira.lanno-night-storm)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/LucianoOliveira.lanno-night-storm.svg)](https://marketplace.visualstudio.com/items?itemName=LucianoOliveira.lanno-night-storm)
 
 <br><br>A dark Visual Studio Code theme that make better for your eyes
 
