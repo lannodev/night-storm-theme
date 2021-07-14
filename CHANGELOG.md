@@ -1,3 +1,5 @@
+## [0.0.6] - [Jul 14, 2021]
+* change editor colors
 ## [0.0.5] - [Jul 13, 2021]
 * change readme file
 ## [0.0.4] - [Jul 13, 2021]
