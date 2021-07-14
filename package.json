@@ -3,7 +3,7 @@
     "displayName": "Night Storm",
     "description": "A clean, dark Visual Studio Code theme",
     "publisher": "LucianoOliveira",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.58.0"
     },
