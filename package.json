@@ -38,6 +38,11 @@
                 "label": "Night Storm",
                 "uiTheme": "vs-dark",
                 "path": "./themes/night-storm-color-theme.json"
+            },
+            {
+                "label": "Night Storm Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night-storm-dark-color-theme.json"
             }
         ]
     }
