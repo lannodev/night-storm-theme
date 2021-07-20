@@ -1,3 +1,5 @@
+## [0.0.8] - [Jul 15, 2021]
+* new dark theme
 ## [0.0.7] - [Jul 15, 2021]
 * fix editor colors
 ## [0.0.6] - [Jul 14, 2021]
