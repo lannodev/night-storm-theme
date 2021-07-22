@@ -1,3 +1,5 @@
+## [0.0.11] - [Jul 22, 2021]
+* fix git colors
 ## [0.0.10] - [Jul 21, 2021]
 * fix git ignored resource color
 ## [0.0.9] - [Jul 20, 2021]
