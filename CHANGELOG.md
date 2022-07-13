@@ -1,3 +1,5 @@
+## [0.0.12] - [Jul 13, 2022]
+* Add semantic Highlighting
 ## [0.0.11] - [Jul 22, 2021]
 * fix git colors
 ## [0.0.10] - [Jul 21, 2021]

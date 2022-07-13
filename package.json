@@ -1,49 +1,49 @@
 {
-    "name": "lanno-night-storm",
-    "displayName": "Night Storm",
-    "description": "A clean, dark Visual Studio Code theme",
-    "publisher": "LucianoOliveira",
-    "version": "0.0.11",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "license": "MIT",
-    "keywords": [
-        "theme",
-        "contrast",
-        "dark",
-        "clean",
-        "flat"
-    ],
-    "icon": "images/icon.png",
-    "author": {
-        "name": "Luciano Oliveira",
-        "email": "workingluciano@gmail.com",
-        "url": "https://lanno.me"
-    },
-    "homepage": "https://github.com/luciano-work/night-storm-theme.git",
-    "bugs": {
-        "url": "https://github.com/luciano-work/night-storm-theme/issues"
-    },
-    "repository": {
-        "url": "https://github.com/luciano-work/night-storm-theme.git",
-        "type": "git"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Night Storm",
-                "uiTheme": "vs-dark",
-                "path": "./themes/night-storm-color-theme.json"
-            },
-            {
-                "label": "Night Storm Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/night-storm-dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "lanno-night-storm",
+  "displayName": "Night Storm Theme",
+  "description": "A clean, dark Visual Studio Code theme",
+  "publisher": "LucianoOliveira",
+  "version": "0.0.12",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "contrast",
+    "dark",
+    "clean",
+    "flat"
+  ],
+  "icon": "images/icon.png",
+  "author": {
+    "name": "Luciano Oliveira",
+    "email": "workingluciano@gmail.com",
+    "url": "https://lanno.me"
+  },
+  "homepage": "https://github.com/luciano-work/night-storm-theme.git",
+  "bugs": {
+    "url": "https://github.com/luciano-work/night-storm-theme/issues"
+  },
+  "repository": {
+    "url": "https://github.com/luciano-work/night-storm-theme.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-storm-color-theme.json"
+      },
+      {
+        "label": "Night Storm Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-storm-dark-color-theme.json"
+      }
+    ]
+  }
 }
